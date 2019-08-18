@@ -65,6 +65,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="01 C++书写HelloWorld.cpp" />
+    <ClCompile Include="06 标识符命名规则.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
