@@ -1,13 +1,14 @@
-﻿生成启动时间为 2019-08-18 18:13:22。
+﻿生成启动时间为 2019-08-18 21:12:49。
      1>项目“F:\workspaces\github\c-Base\02 数据类型\02 数据类型\02 数据类型.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         G:\develop\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "04 字符型.cpp"
-         04 字符型.cpp
+         G:\develop\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "08 数据的输入.cpp"
+         08 数据的输入.cpp
+     1>f:\workspaces\github\c-base\02 数据类型\02 数据类型\08 数据的输入.cpp(31): warning C4305: “初始化”: 从“int”到“bool”截断
        Link:
-         G:\develop\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\workspaces\github\c-Base\02 数据类型\Debug\02 数据类型.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\workspaces\github\c-Base\02 数据类型\Debug\02 数据类型.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\workspaces\github\c-Base\02 数据类型\Debug\02 数据类型.lib" /MACHINE:X86 "Debug\04 字符型.obj"
+         G:\develop\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\workspaces\github\c-Base\02 数据类型\Debug\02 数据类型.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\workspaces\github\c-Base\02 数据类型\Debug\02 数据类型.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\workspaces\github\c-Base\02 数据类型\Debug\02 数据类型.lib" /MACHINE:X86 "Debug\08 数据的输入.obj"
          02 数据类型.vcxproj -> F:\workspaces\github\c-Base\02 数据类型\Debug\02 数据类型.exe
      1>已完成生成项目“F:\workspaces\github\c-Base\02 数据类型\02 数据类型\02 数据类型.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:01.00
+已用时间 00:00:00.99
