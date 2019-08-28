@@ -24,5 +24,17 @@
     <ClCompile Include="08 循环条件-dowhile循环.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="09 水仙花数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10 for循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11 for循环-敲桌子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12 嵌套循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
