@@ -18,7 +18,6 @@ int main() {
 	//数组名是常量，不可以进行赋值操作
 	//arr = 100;
 
-
 	system("pause");
 	return 0;
 }

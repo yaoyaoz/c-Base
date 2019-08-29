@@ -24,5 +24,8 @@
     <ClCompile Include="03 二维数组的定义.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="04 二维数组-数组名.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
