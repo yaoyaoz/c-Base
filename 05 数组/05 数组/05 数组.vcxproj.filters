@@ -27,5 +27,8 @@
     <ClCompile Include="04 二维数组-数组名.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="05 二维数组案例-考试成绩统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

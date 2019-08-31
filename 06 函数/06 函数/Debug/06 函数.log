@@ -1,0 +1,3 @@
+﻿  05 函数的声明.cpp
+f:\workspaces\github\c-base\06 函数\06 函数\05 函数的声明.cpp(34): error C2084: 函数“int max(int,int)”已有主体
+          f:\workspaces\github\c-base\06 函数\06 函数\05 函数的声明.cpp(14) : 参见“max”的前一个定义
