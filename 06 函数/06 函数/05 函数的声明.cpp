@@ -12,7 +12,6 @@ using namespace std;
 声明可以写多次，但是定义只能有一次
 */
 int max(int a, int b);
-int max(int a, int b);
 
 int main()
 {

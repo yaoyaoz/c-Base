@@ -76,7 +76,16 @@
     <ClCompile Include="04 函数-常见样式.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="05 函数的声明.cpp" />
+    <ClCompile Include="05 函数的声明.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="06 函数的分文件编写.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="swap.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
