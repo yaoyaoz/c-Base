@@ -2,7 +2,7 @@
 using namespace std;
 
 /*
-值吃醋安迪
+值传递
 定义函数，实现两个数字进行交换函数
 */
 void swap(int num1, int num2)
