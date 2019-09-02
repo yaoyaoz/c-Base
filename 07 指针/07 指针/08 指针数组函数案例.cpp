@@ -2,7 +2,7 @@
 using namespace std;
 
 //冒泡排序
-void bubbleSort(int * arr, int len)
+void bubbleSort(int * arr, int len)	//int * arr 也可以写为int arr[]
 {
 	for (int i = 0; i < len - 1; i++)
 	{
