@@ -30,5 +30,8 @@
     <ClCompile Include="05 结构体做函数参数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="06 结构体中const使用场景.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
