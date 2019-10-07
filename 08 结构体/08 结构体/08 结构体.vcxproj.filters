@@ -36,5 +36,8 @@
     <ClCompile Include="07 结构体案例1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="08 结构体案例2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
