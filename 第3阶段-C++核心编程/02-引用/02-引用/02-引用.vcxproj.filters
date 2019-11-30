@@ -21,5 +21,17 @@
     <ClCompile Include="02 引用的注意事项.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="03 引用做函数参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04 引用做函数返回值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05 引用的本质指针常量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06 常量引用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
