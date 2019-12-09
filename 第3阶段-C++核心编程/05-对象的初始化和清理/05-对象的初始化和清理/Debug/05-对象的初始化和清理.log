@@ -1,2 +1,5 @@
-﻿  07 类对象作为类成员.cpp
+﻿  11 .cpp
+f:\workspaces\github\c-base\第3阶段-c++核心编程\05-对象的初始化和清理\05-对象的初始化和清理\11 .cpp(30): warning C4101: “p”: 未引用的局部变量
+f:\workspaces\github\c-base\第3阶段-c++核心编程\05-对象的初始化和清理\05-对象的初始化和清理\11 .cpp(39): warning C4101: “p2”: 未引用的局部变量
+f:\workspaces\github\c-base\第3阶段-c++核心编程\05-对象的初始化和清理\05-对象的初始化和清理\11 .cpp(45): warning C4101: “p3”: 未引用的局部变量
   05-对象的初始化和清理.vcxproj -> F:\workspaces\github\c-Base\第3阶段-C++核心编程\05-对象的初始化和清理\Debug\05-对象的初始化和清理.exe
