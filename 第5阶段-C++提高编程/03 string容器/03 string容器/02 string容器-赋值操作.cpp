@@ -2,7 +2,7 @@
 using namespace std;
 #include<string>
 
-//string赋值操作
+//string赋值操作	常用：=
 
 /*
 string& operator=(const char* s);	//char*类型字符串 赋值给当前的字符串

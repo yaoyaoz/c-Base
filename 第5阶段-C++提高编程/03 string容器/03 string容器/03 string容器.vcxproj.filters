@@ -21,5 +21,26 @@
     <ClCompile Include="02 string容器-赋值操作.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="03 string容器-字符串皮杰.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04 string容器-字符串查找和替换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05 string容器-字符串比较.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06 string容器-字符串存取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07 string容器-插入和删除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08 string容器-子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09 string容器-.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
